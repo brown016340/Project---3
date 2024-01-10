@@ -13,5 +13,9 @@ During the merge process, some countries were spelled with or without capitaliza
 
 Data housed in SQL, accessed via SQLalchemy
 
+Data sourced from:
+https://datahub.io/core/geo-countries#resource-countries
+https://www.kaggle.com/datasets/unsdsn/world-happiness
+
 
 
