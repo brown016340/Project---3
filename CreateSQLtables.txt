@@ -1,0 +1,74 @@
+CREATE TABLE Happiness_2015 (
+    Country VARCHAR(100),
+    Region VARCHAR(100),
+    Happiness_Rank INT,
+    Happiness_Score FLOAT,
+    Economy_GDP_per_Capita FLOAT,
+    Family FLOAT,
+    Health_Life_Expectancy FLOAT,
+    Freedom FLOAT,
+    Trust_Government_Corruption FLOAT,
+    Generosity FLOAT,
+    Dystopia_Residual FLOAT,
+    Year INT
+);
+
+CREATE TABLE Happiness_2016 (
+    Country VARCHAR(100),
+    Region VARCHAR(100),
+    Happiness_Rank INT,
+    Happiness_Score FLOAT,
+    Economy_GDP_per_Capita FLOAT,
+    Family FLOAT,
+    Health_Life_Expectancy FLOAT,
+    Freedom FLOAT,
+    Trust_Government_Corruption FLOAT,
+    Generosity FLOAT,
+    Dystopia_Residual FLOAT,
+    Year INT
+);
+
+CREATE TABLE Happiness_2017 (
+    Country VARCHAR(100),
+    Region VARCHAR(100),
+    Happiness_Rank INT,
+    Happiness_Score FLOAT,
+    Economy_GDP_per_Capita FLOAT,
+    Family FLOAT,
+    Health_Life_Expectancy FLOAT,
+    Freedom FLOAT,
+    Trust_Government_Corruption FLOAT,
+    Generosity FLOAT,
+    Dystopia_Residual FLOAT,
+    Year INT
+);
+
+CREATE TABLE Happiness_2018 (
+    Country VARCHAR(100),
+    Region VARCHAR(100),
+    Happiness_Rank INT,
+    Happiness_Score FLOAT,
+    Economy_GDP_per_Capita FLOAT,
+    Family FLOAT,
+    Health_Life_Expectancy FLOAT,
+    Freedom FLOAT,
+    Trust_Government_Corruption FLOAT,
+    Generosity FLOAT,
+    Dystopia_Residual FLOAT,
+    Year INT
+);
+
+CREATE TABLE Happiness_2019 (
+    Country VARCHAR(100),
+    Region VARCHAR(100),
+    Happiness_Rank INT,
+    Happiness_Score FLOAT,
+    Economy_GDP_per_Capita FLOAT,
+    Family FLOAT,
+    Health_Life_Expectancy FLOAT,
+    Freedom FLOAT,
+    Trust_Government_Corruption FLOAT,
+    Generosity FLOAT,
+    Dystopia_Residual FLOAT,
+    Year INT
+);
