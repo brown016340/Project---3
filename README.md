@@ -1,7 +1,14 @@
 # Project---3
 This project was an exploration through the World Happiness Report and applying user-driven visualizations.
+The purpose of this project was to demonstrate a thorough understanding of topics covered in class and the 
+ability to learn a new library not covered in class independantly.
 
 Group members include Ben Brown, Don Ricumstrict, Drew Doran, and Khrystyne Clifton.
+----------------------------------------------------------------------------------------------------------------
+To interact with the project-
+Please be sure to download:
+
+
 
 
 
