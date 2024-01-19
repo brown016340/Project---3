@@ -51,4 +51,6 @@ Data housed in SQL, accessed via SQLalchemy
 
 Data sourced from:
 https://datahub.io/core/geo-countries#resource-countries
+(Country polygons GeoJSON file needed to create maps)
+
 https://www.kaggle.com/datasets/unsdsn/world-happiness
